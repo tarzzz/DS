@@ -6,9 +6,9 @@ for i in range(10):
     
 s.traverse()    
 
- 
 for i in range(2,6):
     s.delete(i)
     
 print ('------------------')    
 s.traverse()    
+

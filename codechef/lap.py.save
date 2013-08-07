@@ -1,0 +1,15 @@
+
+t = int(raw_input())
+s=[]
+for i in range(t):
+    s.append(raw_input())
+
+for i in range(t):
+    check(i)
+
+def check(i):
+    
+
+
+
+
